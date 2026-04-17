@@ -34,7 +34,7 @@ Soy un Ingeniero en Software en formación con una mentalidad enfocada en la res
 
 ---
 
-### 📂 Proyectos Destacados
+###  Proyectos Destacados
 
 *  **Servidor Web en AWS:** Configuración de una instancia EC2 alojando un servidor Nginx con dominio personalizado y automatización de certificados SSL utilizando Certbot.
 *  **Aplicación Estadística (Teorema de Bayes):** Herramienta interactiva desarrollada con Python y Streamlit que integra conceptos de probabilidad matemática y clasificadores de Machine Learning.
@@ -69,7 +69,7 @@ Soy un Ingeniero en Software en formación con una mentalidad enfocada en la res
 Actualmente estoy buscando nuevas oportunidades para aplicar mis habilidades, seguir aprendiendo y colaborar en nuevos retos. ¡Mi bandeja de entrada siempre está abierta!
 
 <p align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:charcraftycarlos@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
